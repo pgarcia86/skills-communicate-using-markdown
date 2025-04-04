@@ -15,3 +15,8 @@ I'm starting to learn about markdown to create a **README.md**
     }
 }
 ```
+
+- [X] Add index.txt file
+- [X] Add an image in that file
+- [X] Add code in index.txt
+- [ ] Make a task list 
